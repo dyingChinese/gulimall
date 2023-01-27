@@ -1,0 +1,24 @@
+﻿Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-cloud-openfeign-core-4.0.0.jar spring-boot-starter-js
+ on-3.0.2.jar jackson-datatype-jdk8-2.14.1.jar aspectjweaver-1.9.19.jar 
+ log4j-to-slf4j-2.19.0.jar tomcat-embed-websocket-10.1.5.jar jackson-cor
+ e-2.14.1.jar spring-expression-6.0.4.jar spring-boot-starter-aop-3.0.2.
+ jar spring-cloud-context-4.0.0.jar jakarta.annotation-api-2.1.1.jar spr
+ ing-security-crypto-6.0.1.jar jackson-module-parameter-names-2.14.1.jar
+  tomcat-embed-el-10.1.5.jar micrometer-commons-1.10.3.jar tomcat-embed-
+ core-10.1.5.jar logback-core-1.4.5.jar spring-aop-6.0.4.jar spring-webm
+ vc-6.0.4.jar spring-boot-starter-web-3.0.2.jar jackson-datatype-jsr310-
+ 2.14.1.jar slf4j-api-2.0.6.jar jul-to-slf4j-2.0.6.jar feign-core-12.1.j
+ ar feign-form-3.8.0.jar spring-security-rsa-1.0.11.RELEASE.jar bcutil-j
+ dk15on-1.69.jar bcprov-jdk15on-1.69.jar snakeyaml-1.33.jar logback-clas
+ sic-1.4.5.jar commons-fileupload-1.4.jar spring-web-6.0.4.jar spring-cl
+ oud-commons-4.0.0.jar feign-slf4j-12.1.jar spring-boot-starter-3.0.2.ja
+ r jackson-databind-2.14.1.jar spring-cloud-starter-openfeign-4.0.0.jar 
+ bcpkix-jdk15on-1.69.jar feign-form-spring-3.8.0.jar spring-core-6.0.4.j
+ ar log4j-api-2.19.0.jar micrometer-observation-1.10.3.jar spring-boot-s
+ tarter-logging-3.0.2.jar spring-jcl-6.0.4.jar spring-cloud-starter-4.0.
+ 0.jar jackson-annotations-2.14.1.jar spring-context-6.0.4.jar spring-bo
+ ot-autoconfigure-3.0.2.jar spring-boot-3.0.2.jar spring-beans-6.0.4.jar
+  spring-boot-starter-tomcat-3.0.2.jar
+
