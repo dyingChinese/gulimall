@@ -10,7 +10,7 @@ spring:
     url: jdbc:mysql://192.168.101.128:3306/gulimall_sms?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
     driver-class-name: com.mysql.cj.jdbc.Driver
   cloud:
-    nachos:
+    nacos:
       discovery:
         server-addr: localhost:8848
 
